@@ -3,3 +3,4 @@
 %uri=https://github.com/tomekomel/sqitch-intro
 
 appschema 2023-02-08T13:57:00Z Merge It Oheara <marge@example.com> # Add schema for all flipr objects.
+users [appschema] 2023-02-08T15:31:48Z Merge It Oheara <marge@example.com> # Creates table to track our users.
